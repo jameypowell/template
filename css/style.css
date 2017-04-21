@@ -7,7 +7,8 @@
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%; }
+  -webkit-text-size-adjust: 100%;
+}
 
 p,a,h1,h2,h3,h4,h5,h6,div,br,li,td,article /* allow users to select text in the ui */
 {
@@ -17,7 +18,12 @@ p,a,h1,h2,h3,h4,h5,h6,div,br,li,td,article /* allow users to select text in the 
       user-select: text;
   }
 body {
-  margin: 0; }
+  margin: 0;
+  background: url(../images/jp_slack.jpg) no-repeat center center fixed;
+     -webkit-background-size: cover;
+     -moz-background-size: cover;
+     -o-background-size: cover;
+     background-size: cover;}
 
 
 article,
@@ -188,4 +194,3 @@ table {
 td,
 th {
   padding: 0; }
-
