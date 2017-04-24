@@ -20,6 +20,7 @@
     <img class="fullimage"src="images/batslap.jpg">
     <img class="fullimage"src="images/100bill.jpg">
     <img class="fullimage"src="images/cat_lemons.jpg">
+    <img class="fullimage"src="images/braceYourself.jpg">
   </div>
   <footer class="footer">
       <div class="text-center">
