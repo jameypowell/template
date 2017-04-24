@@ -18,8 +18,28 @@ p,a,h1,h2,h3,h4,h5,h6,div,br,li,td,article /* allow users to select text in the 
       user-select: text;
   }
 body {
+  margin-bottom: 60px;
 }
 .fullimage{
   height:100%;
   width:100%;
+}
+.page-header{
+  background-color: #222f5b;
+  color:#d48713;
+  margin:0px 0px;
+  border: 0px;
+  position: fixed;
+  width: 100%;
+}
+.footer {
+  position: fixed;
+  float:right;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  color:white;
+  font-weight: bold;
+  font-size: 20px;
+  background-color: rgba(34, 47, 91, 0.80);
 }
