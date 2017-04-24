@@ -24,7 +24,8 @@
   </div>
   <footer class="footer">
       <div class="text-center">
-        <div>Send your catchy meme about voting for Kya to kyampowell@gmail.com and if we like it, we'll put it up.</div>
+        <div>Send your catchy meme about voting for Kya to kyampowell@gmail.com </div>
+          <div>If I like it, I'll put it up.</div>
       </div>
     </footer>
 </body>
