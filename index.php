@@ -1,4 +1,4 @@
-
+<?php include "hitcounter.php"; ?>
 <!DOCTYPE html>
 <html>
 <head>
