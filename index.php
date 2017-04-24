@@ -12,7 +12,7 @@
 <body>
   <div class="page-header text-center">
     <div style="padding-top:1%;font-size:35px;font-weight:bold;">VOTE FOR KYA POWELL</div>
-    <div style="padding-bottom:1%;font-size:25px;font-style:italic;">Salem Junior High Student Council</div>
+    <div style="padding-bottom:1%;font-size:25px;font-style:italic;">Salem Junior High 9th Grade Student Council</div>
   </div>
   <div class="container-fluid">
     <img class="fullimage"src="images/hello.jpg">
