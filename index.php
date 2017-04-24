@@ -16,12 +16,12 @@
     <div style="padding-bottom:1%;font-size:25px;color:red;">Memes Updated Daily</div>
   </div>
   <div class="container-fluid">
-    <img class="fullimage"src="images/hello.jpg">
-    <img class="fullimage"src="images/anderHappy.jpg">
-    <img class="fullimage"src="images/batslap.jpg">
-    <img class="fullimage"src="images/100bill.jpg">
-    <img class="fullimage"src="images/cat_lemons.jpg">
-    <img class="fullimage"src="images/braceYourself.jpg">
+    <img class="img-responsive"src="images/hello.jpg">
+    <img class="img-responsive"src="images/anderHappy.jpg">
+    <img class="img-responsive"src="images/batslap.jpg">
+    <img class="img-responsive"src="images/100bill.jpg">
+    <img class="img-responsive"src="images/cat_lemons.jpg">
+    <img class="img-responsive"src="images/braceYourself.jpg">
   </div>
   <footer class="footer">
       <div class="text-center">

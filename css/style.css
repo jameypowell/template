@@ -43,3 +43,6 @@ body {
   font-size: 25px;
   background-color: rgba(34, 47, 91, 0.80);
 }
+img{
+  margin: 0 auto;
+}
