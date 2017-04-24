@@ -10,10 +10,9 @@
   <link rel='stylesheet' href='css/style.css'>
 </head>
 
-<?php
-?>
+
 <body>
-  <img class="fullimage"src="images/jp_slack.jpg">
+  <img class="fullimage"src=<?php echo $submittedValue;?>>
 </body>
 
 </html>
