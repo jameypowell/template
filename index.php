@@ -20,9 +20,9 @@
     <img class="img-responsive"src="images/soshouldyou.jpg">
     <img class="img-responsive"src="images/shes52.jpg">
     <img class="img-responsive"src="images/twocats.jpg">
-    <img class="img-responsive"src="images/vicVotes.jpg">
-    <img class="img-responsive"src="images/loseVotes.jpg">
-    <img class="img-responsive"src="images/braceYourself.jpg">
+    <img class="img-responsive"src="images/vicVotes1.jpg">
+    <img class="img-responsive"src="images/loseVotes1.jpg">
+    <img class="img-responsive"src="images/braceYourself1.jpg">
   </div>
   <footer class="footer">
       <div class="text-center">
