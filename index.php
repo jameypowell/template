@@ -2,7 +2,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Vote for Kya!!!</title>
+
+<title>Vote for Kya!!!</title>
   <meta charset="UTF-8">
   <script src='js/jquery.min.js'></script>
   <script src='js/bootstrap.min.js'></script>
