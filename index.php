@@ -17,8 +17,8 @@
     <div style="padding-bottom:1%;font-size:25px;color:red;">Memes Updated Daily</div>
   </div>
   <div class="container-fluid">
-    <img class="img-responsive"src="images/soshouldyou.jpg">
     <img class="img-responsive"src="images/shes52.jpg">
+    <img class="img-responsive"src="images/soshouldyou.jpg">
     <img class="img-responsive"src="images/twocats.jpg">
     <img class="img-responsive"src="images/vicVotes1.jpg">
     <img class="img-responsive"src="images/loseVotes1.jpg">
