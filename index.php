@@ -17,12 +17,13 @@
     <div style="padding-bottom:1%;font-size:25px;color:red;">Memes Updated Daily</div>
   </div>
   <div class="container-fluid">
-    <img class="img-responsive"src="images/shes52.jpg">
-    <img class="img-responsive"src="images/soshouldyou.jpg">
-    <img class="img-responsive"src="images/twocats.jpg">
-    <img class="img-responsive"src="images/vicVotes1.jpg">
-    <img class="img-responsive"src="images/loseVotes1.jpg">
-    <img class="img-responsive"src="images/braceYourself1.jpg">
+    <div class="row" style="margin-top:170px;">
+    <img class="img-responsive"src="images/kyathegirlonfireposter.jpg">
+    <img class="img-responsive"src="images/googlevoteforkya.jpg">
+    <img class="img-responsive"src="images/itstimetovoteforkya.jpg">
+    <img class="img-responsive"src="images/kyasfaceonlincoln.jpg">
+    <img class="img-responsive"src="images/neverletyoudown.jpg">
+  </div>
   </div>
   <footer class="footer">
       <div class="text-center">
