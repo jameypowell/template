@@ -18,6 +18,13 @@
   </div>
   <div class="container-fluid">
     <div class="row" style="margin-top:140px;">
+      <img class="img-responsive"src="images/FullSizeRender_1.jpg">
+      <img class="img-responsive"src="images/FullSizeRender_2.jpg">
+      <img class="img-responsive"src="images/FullSizeRender_3.jpg">
+      <img class="img-responsive"src="images/FullSizeRender.jpg">
+      <img class="img-responsive"src="images/FullSizeRender_4.jpg">
+      <img class="img-responsive"src="images/trump.jpg">
+
     <img class="img-responsive"src="images/kyathegirlonfireposter.jpg">
     <img class="img-responsive"src="images/googlevoteforkya.jpg">
     <img class="img-responsive"src="images/itstimetovoteforkya.jpg">
