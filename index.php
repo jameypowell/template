@@ -17,7 +17,7 @@
     <div style="padding-bottom:1%;font-size:25px;color:red;">Memes Updated Daily</div>
   </div>
   <div class="container-fluid">
-    <div class="row" style="margin-top:170px;">
+    <div class="row" style="margin-top:140px;">
     <img class="img-responsive"src="images/kyathegirlonfireposter.jpg">
     <img class="img-responsive"src="images/googlevoteforkya.jpg">
     <img class="img-responsive"src="images/itstimetovoteforkya.jpg">
