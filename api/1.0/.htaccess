@@ -1,0 +1,20 @@
+#https://192.168.99.100/api/1.0/names.json
+#https://192.168.99.100/api/1.0/api.php?path[]=names
+
+#https://192.168.99.100/api/1.0/delete/12332.json
+#https://192.168.99.100/api/1.0/api.php?path[]=delete&path[]=12332
+
+
+RewriteEngine on
+
+RewriteCond %{REQUEST_URI} !^api-handler.php
+RewriteRule ^([a-zA-Z0-9_]*)/([a-zA-Z0-9_]*)/([a-zA-Z0-9_]*)/([a-zA-Z0-9_]*).json api.php?path[]=$1&path[]=$2&path[]=$3&path[]=$4 [nc,qsa]
+
+RewriteCond %{REQUEST_URI} !^api-handler.php
+RewriteRule ^([a-zA-Z0-9_]*)/([a-zA-Z0-9_]*)/([a-zA-Z0-9_]*).json api.php?path[]=$1&path[]=$2&path[]=$3 [nc,qsa]
+
+RewriteCond %{REQUEST_URI} !^api-handler.php
+RewriteRule ^([a-zA-Z0-9_]*)/([a-zA-Z0-9_]*).json api.php?path[]=$1&path[]=$2 [nc,qsa]
+
+RewriteCond %{REQUEST_URI} !^api-handler.php
+RewriteRule ^([a-zA-Z0-9_]*).json api.php?path[]=$1 [nc,qsa]
