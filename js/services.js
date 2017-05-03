@@ -1,4 +1,4 @@
-app.service("api", function($http, $q){
+/*app.service("api", function($http, $q){
 
 	function execute(type, method, dataObject){
 		return new $q(function(resolve, reject){
@@ -36,7 +36,7 @@ app.service("api", function($http, $q){
 
 /**************** USER LOGIN ***************/
 //This service does not require to be logged in
-app.service("sessionService", function(api){
+/*app.service("sessionService", function(api){
 
 	this.loggedIn = function(){
 		return api.get('login');
@@ -53,7 +53,7 @@ app.service("sessionService", function(api){
 
 /********** FORGOT PASSWORD LOGIN *************/
 //This service does not require to be logged in
-app.service("resetPasswordService", function(api){
+/*app.service("resetPasswordService", function(api){
 
 	this.requestResetViaMobile = function(dataObject){
 		return api.post('reset/password/mobile', dataObject);
@@ -73,7 +73,7 @@ app.service("resetPasswordService", function(api){
 });
 
 /**************** DROPDOWN SERVICE ***************/
-app.service("dropdownService", function(api, $q){
+/*app.service("dropdownService", function(api, $q){
 
 	this.getCounties = function(){
 		return $q(function(resolve, reject){
@@ -108,7 +108,7 @@ app.service("dropdownService", function(api, $q){
 });
 
 /**************** USER REGISTRATION INFO ***************/
-app.service("registerService", function(api){
+/*app.service("registerService", function(api){
   //This method does not require to be logged in
 	this.registerUser = function(dataObject){
 		return api.post('register/user', dataObject);
@@ -124,7 +124,7 @@ app.service("registerService", function(api){
 });
 /**************** REFERRAL SERVICE ***************/
 //Every call in this service requires the user to be logged in
-app.service("referralService", function(api){
+/*app.service("referralService", function(api){
 
 	this.getSubmittedReferrals = function(){
 		return api.get('submit/referral');
